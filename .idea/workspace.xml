@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RunManager" selected="Compound.run dev project">
+    <configuration name="run dev project" type="CompoundRunConfigurationType">
+      <toRun name="start:dev server" type="js.build_tools.npm" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/server" />
+      <command value="run" />
+      <scripts>
+        <script value="start:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start:dev server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/server" />
+      <command value="run" />
+      <scripts>
+        <script value="start:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Compound.run dev project" />
+      <item itemvalue="npm.start:dev server" />
+    </list>
+  </component>
+</project>
