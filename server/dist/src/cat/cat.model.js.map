@@ -1,0 +1,1 @@
+{"version":3,"file":"cat.model.js","sourceRoot":"","sources":["../../../src/cat/cat.model.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,+CAA6D;AAO7D,IAAa,GAAG,GAAhB,MAAa,GAAG;CAWf,CAAA;AARC;IADC,eAAI,EAAE;;iCACM;AAGb;IADC,eAAI,EAAE;;kCACO;AAGd;IADC,eAAI,EAAE;;gCACK;AATD,GAAG;IADf,iBAAM,EAAE;GACI,GAAG,CAWf;AAXY,kBAAG;AAaH,QAAA,SAAS,GAAG,wBAAa,CAAC,cAAc,CAAC,GAAG,CAAC,CAAC"}
