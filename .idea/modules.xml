@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/cats_graphql.iml" filepath="$PROJECT_DIR$/.idea/cats_graphql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rokket_zoo/.idea/rokket_zoo.iml" filepath="$PROJECT_DIR$/../rokket_zoo/.idea/rokket_zoo.iml" />
     </modules>
   </component>
 </project>
