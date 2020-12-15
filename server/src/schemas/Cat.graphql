@@ -1,0 +1,18 @@
+type Cat {
+  name: String,
+  breed: String,
+  age: Int
+}
+input CatInput {
+  name: String!,
+  breed: String!,
+  age: Int!,
+}
+
+type Query {
+  cats: [Cat]
+}
+
+type Mutation {
+  addCat(cat: CatInput): Cat
+}
