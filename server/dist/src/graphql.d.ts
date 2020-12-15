@@ -1,7 +1,7 @@
 export declare class CatInput {
-    name?: string;
-    breed?: string;
-    age?: number;
+    name: string;
+    breed: string;
+    age: number;
 }
 export declare class Cat {
     name?: string;

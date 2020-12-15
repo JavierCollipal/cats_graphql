@@ -4,9 +4,9 @@ type Cat {
   age: Int
 }
 input CatInput {
-  name: String,
-  breed: String,
-  age: Int
+  name: String!,
+  breed: String!,
+  age: Int!,
 }
 
 type Query {

@@ -7,9 +7,9 @@
 /* tslint:disable */
 /* eslint-disable */
 export class CatInput {
-    name?: string;
-    breed?: string;
-    age?: number;
+    name: string;
+    breed: string;
+    age: number;
 }
 
 export class Cat {

@@ -1382,7 +1382,7 @@
         "affectsGlobalScope": false
       },
       "../src/app.service.ts": {
-        "version": "eaf8514ce110fa428a93a27408df4d06d133dbd9ed0a775c315ddfdd507853a9",
+        "version": "245b4a7706fa8300641fd1b12efd8a68eac895550a8b02e97752a5ee46d6972c",
         "signature": "653711fba8904aa27fd8911b63cf526e7b334e13a292da4cefdbbe179ac3f3f2",
         "affectsGlobalScope": false
       },
@@ -3886,8 +3886,8 @@
         "affectsGlobalScope": false
       },
       "../src/graphql.ts": {
-        "version": "31d4c93c77d6e897796b1eba70e329d52b5d7a76c9539c98d7253fc3d990fd90",
-        "signature": "9e6e0723dc8836e43ca8804c81b1aa79855e96f12b9b0bd06497ae2389712356",
+        "version": "4fe7830c67cb5e998a674d4c11517a633fb1ff1d72f9d3455034023fec705908",
+        "signature": "79b3b9baa5d992e4894f565b27731179e89c85d1b5f7ce6b9cca3c81dd876a51",
         "affectsGlobalScope": false
       },
       "../src/main.ts": {
